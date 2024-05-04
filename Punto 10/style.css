@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+li{
+display: inline;
+margin-left: 150px;
+background-color: rgb(197, 36, 125);
+margin-top: 120px;
+margin: 5px;
+padding: 15px;
+font-size: 20px;
+}
+.encabezado{
+    background-color: rgba(30, 224, 176, 0.938);
+    padding-bottom: 50px;
+}
+.imagen-cabecera{
+    border-radius: 50%;
+}
+.contenedor{
+    margin-left: 715px ;
+    margin-top: -70px;
+}
+.nombre{
+ text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  color: red;
+  text-transform: uppercase;
+}
+.nombre:active{
+    font-size: 35px;
+}
+.imagen-seccion1{
+    display: flex;
+    justify-content: center;
+}
+.nuestro{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.card1{
+    width: 80%;
+    max-width: 300px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(233, 17, 17);
+    color: #fff;
+    position: relative;
+}
+.imag1{
+    display: flex;
+    justify-content: center;
+}
+.boton1{
+    background-color: rgb(143, 124, 211);
+    font-size: 30px;
+    border-radius: 5px;
+    width: 150px;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.boton1:hover{
+    transform: scale(1.2);
+}
+.title1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    word-spacing: 10px;
+}
+.paragraph--first1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+
+}
+.paragraph1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+}
+.card2{
+    width: 80%;
+    max-width: 300px;
+    padding-top: 30px;
+    padding-left: 55px;
+    padding-right: 55px;;
+    background-color: rgb(17, 233, 17);
+    color: #fff;
+    position: relative;
+    left: 550px;
+    bottom:670px;
+
+}
+.imag2{
+    display: flex;
+    justify-content: center;
+}
+.boton2{
+    background-color: rgb(143, 124, 211);
+    font-size: 30px;
+    border-radius: 5px;
+    width: 150px;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.boton2:hover{
+    transform: scale(1.2);
+}
+.title2{
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.paragraph--first2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+
+}
+.paragraph2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+}
+.card3{
+    width: 80%;
+    max-width: 300px;
+    padding-top: 40px;
+    padding-left: 69px;
+    padding-right: 69px;
+    background-color: rgb(92, 104, 27);
+    color: #fff;
+    position:relative;
+    left: 1045px;
+    bottom: 1335px;
+}
+.imag3{
+    display: flex;
+    justify-content: center;
+}
+.boton3{
+    background-color: rgb(143, 124, 211);
+    font-size: 30px;
+    border-radius: 5px;
+    width: 150px;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.boton3:hover{
+    transform: scale(1.2);
+}
+.title3{
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+  
+}
+.paragraph--first3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+
+}
+.paragraph3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+}
